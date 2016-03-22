@@ -1,2 +1,6 @@
 .sass-cache/
 *.css.map
+
+# Ignore bourbon and neat files
+bourbon
+neat
