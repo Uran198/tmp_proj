@@ -1,0 +1,12 @@
+@import "bourbon/bourbon";
+@import "neat/neat-helpers";
+
+// Change the grid settings
+$column: 90px;
+$gutter: 30px;
+$grid-columns: 4;
+$max-width: 1200px;
+
+// Define your breakpoints
+$full: new-breakpoint(min-width 768px 10);
+$tablet: new-breakpoint(min-width 480px 8);
